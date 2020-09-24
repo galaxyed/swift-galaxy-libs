@@ -1,0 +1,6 @@
+Carthage/
+build/
+Cartfile
+*.resolved
+*.sh
+

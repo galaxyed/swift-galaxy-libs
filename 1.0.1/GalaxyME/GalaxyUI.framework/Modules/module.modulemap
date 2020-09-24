@@ -1,0 +1,4 @@
+framework module GalaxyUI {
+  header "GalaxyUI-Swift.h"
+  requires objc
+}
