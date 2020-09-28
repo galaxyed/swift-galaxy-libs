@@ -1,4 +1,0 @@
-framework module GalaxyRIBs {
-  header "GalaxyRIBs-Swift.h"
-  requires objc
-}

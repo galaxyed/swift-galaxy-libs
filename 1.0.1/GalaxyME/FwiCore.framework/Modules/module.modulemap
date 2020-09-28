@@ -1,4 +1,0 @@
-framework module FwiCore {
-  header "FwiCore-Swift.h"
-  requires objc
-}
